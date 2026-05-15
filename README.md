@@ -1,5 +1,7 @@
 # Manu Kumar - Personal Portfolio
 
+**🔗 Live Preview:** [https://hadesoo7.github.io/](https://hadesoo7.github.io/)
+
 Welcome to the repository for my personal portfolio website. This project showcases my skills, projects, and professional experience through a modern and interactive design.
 
 ## 🛠️ Tech Stack
@@ -15,8 +17,8 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HADESOO7/Portfolio.git
-   cd Portfolio
+   git clone https://github.com/HADESOO7/HADESOO7.github.io.git
+   cd HADESOO7.github.io
    ```
 
 2. Install dependencies:
