@@ -809,7 +809,7 @@ const projects: Project[] = [
             <li><strong>Secure & Flexible Authentication:</strong> Users can sign up and log in securely using their email and password or through their Google account.</li>
             <li><strong>Dynamic & Interactive Marketplace:</strong> Users can effortlessly create listings for their items, complete with images and descriptions.</li>
             <li><strong>Real-Time Chat:</strong> Integrated real-time chat feature using Cloud Firestore, allowing buyers and sellers to connect instantly.</li>
-            <li><strong>Personalized Experience:</strong> Features like a personal "Wishlist" allow users to save items they are interested in.</li>
+            <li><strong>Personalized Experience:</strong> Features like a personal &quot;Wishlist&quot; allow users to save items they are interested in.</li>
           </ul>
 
           <TypographyH3 className="my-4 mt-8">Screenshots</TypographyH3>
@@ -893,7 +893,7 @@ const projects: Project[] = [
             Recipe Finder: Visual Food Exploration
           </TypographyP>
           <TypographyP className="font-mono ">
-            An advanced Computer Vision and Natural Language Processing application designed to solve the age-old question: "What is that, and how do I make it?" By simply uploading a photo of a dish, this application utilizes deep learning to identify the food, predict the required ingredients, and automatically generate a step-by-step cooking recipe. Built with PyTorch and Flask.
+            An advanced Computer Vision and Natural Language Processing application designed to solve the age-old question: &quot;What is that, and how do I make it?&quot; By simply uploading a photo of a dish, this application utilizes deep learning to identify the food, predict the required ingredients, and automatically generate a step-by-step cooking recipe. Built with PyTorch and Flask.
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} liveText="Download zip" />
           
